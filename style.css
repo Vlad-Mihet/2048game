@@ -1,0 +1,25 @@
+.col-3 {
+    height: 8vw;
+    border: 2px solid black;
+}
+
+#game-interface {
+    width: 32vw;
+    margin-top: 2.5vh;
+}
+
+#game-pad {
+    margin-top: 3.5vh;
+    height: 12vw;
+    border: 2px solid black;
+}
+
+#game-pad {
+    width: 15vw;
+    height: fit-content;
+}
+
+.col-4 {
+    height: 5vw;
+    border: 2px solid black;
+}
